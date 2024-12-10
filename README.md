@@ -1,4 +1,4 @@
-# Proyecto de Epidemiología II
+# Proyecto de Epidemiología II MIM
 
 Este repositorio contiene el trabajo final del curso de Epidemiología II, que incluye un análisis utilizando el método de Curvas Principales (CPM).
 
@@ -14,4 +14,4 @@ Puedes ver el análisis completo en: [https://felipecgrillo.github.io/epi_II/tra
 
 ## Autor
 
-Felipe Carrasco
+Pablo Cabello, Cristobal Pineda y Felipe Carrasco
