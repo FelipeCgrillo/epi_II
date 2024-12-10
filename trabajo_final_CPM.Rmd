@@ -1,6 +1,6 @@
 ---
 title: "Análisis Epidemiológico ENSSEX - Predicción de Depresión"
-author: "Felipe Carrasco"
+author: "Pablo Cabello, Cristobal Pineda y Felipe Carrasco"
 date: "`r Sys.Date()`"
 output:
   html_document:
