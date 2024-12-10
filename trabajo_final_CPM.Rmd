@@ -7,6 +7,9 @@ output:
     theme: cosmo
     toc: true
     toc_float: true
+  pdf_document:
+    toc: true
+    toc_depth: 2
 ---
 
 ## 0. Introducción
