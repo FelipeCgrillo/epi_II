@@ -4,13 +4,14 @@ Este repositorio contiene el trabajo final del curso de Epidemiología II, que i
 
 ## Contenido
 
-- `trabajo_final CPM.Rmd`: Archivo R Markdown con el código y análisis del proyecto
-- `trabajo_final-CPM.html`: Versión renderizada del análisis
+- `trabajo_final_CPM.Rmd`: Archivo R Markdown con el código y análisis del proyecto
+- `trabajo_final_CPM.html`: Versión renderizada del análisis
+- `trabajo_final_CPM.pdf`: Versión en PDF del análisis
 - `20240516_enssex_data.rdata`: Datos utilizados en el análisis
 
 ## Visualización
 
-Puedes ver el análisis completo en: [https://felipecgrillo.github.io/epi_II/trabajo_final-CPM.html](https://felipecgrillo.github.io/epi_II/trabajo_final-CPM.html)
+Puedes ver el análisis completo en: [https://felipecgrillo.github.io/epi_II/trabajo_final_CPM.html](https://felipecgrillo.github.io/epi_II/trabajo_final_CPM.html)
 
 ## Autor
 
